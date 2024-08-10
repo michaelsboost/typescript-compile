@@ -33,7 +33,7 @@ Demo
 Download 
 -------- 
 
-[TypeScript 5.5](https://raw.github.com/michaelsboost/typescript-compile/gh-pages/js/typescript.min.js) (minified JS) 
+[TypeScript 5.5](https://raw.github.com/michaelsboost/typescript-compile/gh-pages/js/typescript.min.js) (minified JS)   
 [TypeScript Compile 0.3](https://raw.github.com/michaelsboost/typescript-compile/gh-pages/js/typescript.compile.min.js) (minified JS)
 
 License
